@@ -19,6 +19,7 @@ Dynamic query.
   
 #### OUTPUT:
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/4.jpeg" width="500"> 
+  
 Output as reflected in the table in SQL workbench -
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/5.jpeg" width="500"> 
 
