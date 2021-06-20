@@ -35,8 +35,12 @@ Output as reflected in the table in SQL workbench -
 ---
 ### UPADTE
 #### CODE:
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/9.jpeg" width="500"> 
 
 #### OUTPUT:
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/10.jpeg" width="500"> 
+
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/11.jpeg" width="500"> 
 
 ---
 ### DELETE
