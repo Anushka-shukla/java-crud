@@ -11,11 +11,15 @@ JAVA code that manages information in a database (MySQL)- Create, Retrieve, Upad
 ---  
 ### INSERT
 #### CODE:
+When we areproiding the hardcoded query.
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/3.jpeg" width="500"> 
 
+Dynamic query.
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/3.jpeg" width="500"> 
   
 #### OUTPUT:
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/4.jpeg" width="500"> 
+Output as reflected in the table in SQL workbench -
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/5.jpeg" width="500"> 
 
   
