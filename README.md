@@ -6,16 +6,19 @@ JAVA code that manages information in a database (MySQL)- Create, Retrieve, Upad
 
 #### OUTPUT
 
+---
 ### SELECT
 #### CODE
 
 #### OUTPUT
 
+---
 ### UPADTE
 #### CODE
 
 #### OUTPUT
 
+---
 ### DELETE
 #### CODE
 
