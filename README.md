@@ -15,7 +15,7 @@ When we areproiding the hardcoded query.
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/3.jpeg" width="500"> 
 
 Dynamic query.
-<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/3.jpeg" width="500"> 
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/6.jpeg" width="500"> 
   
 #### OUTPUT:
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/4.jpeg" width="500"> 
@@ -27,6 +27,7 @@ Output as reflected in the table in SQL workbench -
 ---
 ### SELECT
 #### CODE:
+  
 
 #### OUTPUT:
 
