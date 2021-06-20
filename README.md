@@ -3,7 +3,7 @@ JAVA code that manages information in a database (MySQL)- Create, Retrieve, Upad
 
 ### To check if connectivity with the database has been established or not.
 #### CODE:
-<p align="center"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/1.jpeg" width="400"> 
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/1.jpeg" width="400"> 
 
 #### OUTPUT:
 <p align="center"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/2.jpeg" width="400"> 
