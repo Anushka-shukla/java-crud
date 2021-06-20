@@ -11,7 +11,7 @@ JAVA code that manages information in a database (MySQL)- Create, Retrieve, Upad
 ---  
 ### INSERT
 #### CODE:
-When we areproiding the hardcoded query.
+When we are providing the hardcoded query.
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/3.jpeg" width="500"> 
 
 Dynamic query.
