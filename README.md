@@ -7,7 +7,8 @@ JAVA code that manages information in a database (MySQL)- Create, Retrieve, Upad
 
 #### OUTPUT:
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/2.jpeg" width="500"> 
-
+---
+  
 ### INSERT
 #### CODE:
 
