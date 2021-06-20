@@ -37,10 +37,17 @@ Output as reflected in the table in SQL workbench -
 #### CODE:
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/9.jpeg" width="500"> 
 
+Code for dynamic parameter
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/13.jpeg" width="500"> 
+
 #### OUTPUT:
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/10.jpeg" width="500"> 
 
 <p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/11.jpeg" width="500"> 
+  
+Output for dynamic parameter
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/12.jpeg" width="500"> 
+
 
 ---
 ### DELETE
