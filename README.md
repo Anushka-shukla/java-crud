@@ -27,9 +27,10 @@ Output as reflected in the table in SQL workbench -
 ---
 ### SELECT
 #### CODE:
-  
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/7.jpeg" width="500"> 
 
 #### OUTPUT:
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/8.jpeg" width="500"> 
 
 ---
 ### UPADTE
