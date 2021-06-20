@@ -52,6 +52,11 @@ Output for dynamic parameter
 ---
 ### DELETE
 #### CODE:
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/14.jpeg" width="500"> 
+
 
 #### OUTPUT:
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/15.jpeg" width="500"> 
+
+<p align="left"><img src="https://github.com/Anushka-shukla/java-crud/blob/master/pics/16.jpeg" width="500"> 
 
